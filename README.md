@@ -27,13 +27,11 @@ echo "# primeiropush_escola" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/edimaurolima/
-primeiropush_escola.git
+git remote add origin https://github.com/edimaurolima/primeiropush_escola.git
 git push -u origin master
 </p>
 <p>Para configurando o repositorio remoto local execuetei:</p>
-<p style="background: #f5f5f5;">$ git remote add origin https://github.com/edimaurolima/
-primeiropush_escola.git</p>
+<p style="background: #f5f5f5;">$ git remote add origin https://github.com/edimaurolima/primeiropush_escola.git</p>
 <p>E por último o comando do PUSH</p>
 <p style="background: #f5f5f5;">$ git push origen master</p>
 
